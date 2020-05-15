@@ -13,7 +13,7 @@ Choose *one* option below:
 
 # Options:
 
-## 99 bottles of beer on the wall
+## 1. 99 bottles of beer on the wall
 
 Recreate '99 bottles of beers on the wall'.
 
@@ -47,7 +47,7 @@ Take one down and pass it around, 1 bottle of beer on the wall.
 Go to the store and buy some more, 99 bottles of beer on the wall.
 ```
 
-## Permutations
+## 2. Permutations
 
 Write a function that returns all permutations of a given list of any size.
 
@@ -61,3 +61,14 @@ permutations({1, 2, 3})
 [3, 1, 2]
 [3, 2, 1]
 ```
+
+## 3. Fibonacci Number
+
+Given an integer `n`, write a function to compute the nth Fibonacci number.
+
+```
+fibonacci(1) = 1
+fibonacci(5) = 5
+fibonacci(10) = 55
+```
+
