@@ -46,3 +46,18 @@ Take one down and pass it around, 1 bottle of beer on the wall.
 1 bottle of beer on the wall, 1 bottle of beer.
 Go to the store and buy some more, 99 bottles of beer on the wall.
 ```
+
+## Permutations
+
+Write a function that returns all permutations of a given list of any size.
+
+Example:
+```
+permutations({1, 2, 3})
+[1, 2, 3]
+[1, 3, 2]
+[2, 1, 3]
+[2, 3, 1]
+[3, 1, 2]
+[3, 2, 1]
+```
