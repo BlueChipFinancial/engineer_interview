@@ -51,6 +51,8 @@ Go to the store and buy some more, 99 bottles of beer on the wall.
 
 Write a function that returns all permutations of a given list of any size.
 
+There is only one rule: You may not use internal functions such as Python's `itertools.permutations()`:
+
 Example:
 ```
 permutations({1, 2, 3})
